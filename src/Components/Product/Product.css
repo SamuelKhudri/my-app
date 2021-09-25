@@ -1,0 +1,19 @@
+.product{
+    display: flex;
+    margin-right: 10px;
+    border-bottom: 1px solid lightgray;
+}
+.product-item{
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+.name{
+    color: hsla(240, 91%, 45%, 0.733);
+}
+.btn-regular{
+    background-color: #ffa07ab2;
+    height: 25px;
+    width: 150px;
+    border:1px solid gray;
+    border-radius: 5px;
+}

@@ -1,0 +1,14 @@
+.cart-middle{
+    text-align: center;
+}
+.btn-press{
+    background-color: #ffa07ab2;
+    height: 25px;
+    width: 200px;
+    border:1px solid gray;
+    border-radius: 5px;
+    margin-left: 60px;
+}
+#all-total{
+    color: indianred;
+}
